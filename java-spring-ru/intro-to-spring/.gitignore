@@ -1,0 +1,6 @@
+.gradle/
+build/
+caches/
+.idea/
+intro-to-spring.iml
+local.properties
